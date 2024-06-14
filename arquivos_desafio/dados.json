@@ -1,0 +1,51 @@
+{
+    "id": "usp-47722987822",
+    "agrupador": "usp",
+    "tipoPessoa": "FISICA",
+    "nome": "LUCAS DA SILVA",
+    "cpf": "47722987822",
+    "dataNascimento": "1999-07-24",
+    "tipo": "I", 
+    "enderecos": [
+        {
+            "cep": "04719002",
+            "logradouro": "RUA VERBO DIVINO",
+            "bairro": "CHARACA SANTO ANTONIO",
+            "cidade": "SAO PAULO",
+            "numero": "42",
+            "uf": "SP"
+        }
+    ],
+    "emails": [
+        {
+            "email": "lucas@silva.com"
+        }
+    ],
+    "telefones": [
+        {
+            "tipo": "CELULAR",
+            "ddd": "11",
+            "telefone": "995483839"
+        }
+    ],
+    "informacoesAdicionais": [
+        {
+            "campo": "cpf_aluno",
+            "linha": 1,
+            "coluna": 1,
+            "valor": "47722987822"
+        },
+        {
+            "campo": "registro_aluno",
+            "linha": 1,
+            "coluna": 1,
+            "valor": "706162"
+        },
+        {
+            "campo": "nome_aluno",
+            "linha": 1,
+            "coluna": 1,
+            "valor": "LUCAS DA SILVA"
+        }
+    ]
+}
