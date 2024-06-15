@@ -34,3 +34,10 @@ Após importar as bibliotecas necessárias para manipular dados em Python, o scr
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/dataframes.png)
 
 </div>
+
+### Funções de validação
+
+Após o carregando dos dados, foram criadas funções para fazer as validações das informações dos clientes como se o CPF é verdadeiro, está com os 11 digitos e se o seu código de segurança está correto. Também uma função para validar o nome do cliente, ele verifica se no sistema o nome do cliente é maior do que 1. <br>
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/funcao_1.png)
+
+<br>
