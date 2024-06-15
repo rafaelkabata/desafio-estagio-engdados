@@ -15,5 +15,9 @@ Então basta dar um  ``` python main.py``` ou F5, dependendo de onde rodadão o 
 
 ### Aqui se encontra o resultado dos clientes invalidos
 
-[Arquivo de clientes invalidos](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Entregaveis/clientes_invalidos.xlsx) Aqui está o arquivo resultante da análise do script com os clientes com dados invalidos do arquivo dados.xlsx .
+[Arquivo de clientes invalidos](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Entregaveis/clientes_invalidos.xlsx) : Aqui está o arquivo resultante da análise do script com os clientes com dados invalidos do arquivo dados.xlsx .
+
+### Aqui se encontra o resultado dos clientes que estão com informações corretas
+
+[Arquivo Json com as informações corretas](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Entregaveis/clientes_para_subir.json) : Neste arquivo se encontram as informações que estão corretas e prontas para subir para o sistema no formato Json. Se não havia ainda informações em sistema.xlsx, ele inclui como inserção(I) no json. Caso já tenha algum dado cadastrado em sistema.xlsx, ele sobe como atualização (A) .
 
