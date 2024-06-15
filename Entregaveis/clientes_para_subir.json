@@ -1,0 +1,587 @@
+[
+    {
+        "id": "usp-145.388.540-42",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Ana Sarah Luna Nunes",
+        "cpf": "145.388.540-42",
+        "dataNascimento": "1985-06-07",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "78028-505",
+                "logradouro": "Rua Florianópolis",
+                "bairro": "Cidade Verde",
+                "cidade": "Cuiabá",
+                "numero": 807,
+                "uf": "MT"
+            }
+        ],
+        "emails": [
+            {
+                "email": "ana_nunes@live.dk"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "65",
+                "telefone": "989398957"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "145.388.540-42"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Ana Sarah Luna Nunes"
+            }
+        ]
+    },
+    {
+        "id": "usp-746.863. 209-09",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Benedita Raimunda Lorena Rezende",
+        "cpf": "746.863. 209-09",
+        "dataNascimento": "2001-02-14",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "87309-710",
+                "logradouro": "Rua Nelson Behrens",
+                "bairro": "Jardim Silvana",
+                "cidade": "Campo Mourão",
+                "numero": 382,
+                "uf": "PR"
+            }
+        ],
+        "emails": [
+            {
+                "email": "benedita_raimunda_rezende@eletrotex.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "44",
+                "telefone": "999201842"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "746.863. 209-09"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Benedita Raimunda Lorena Rezende"
+            }
+        ]
+    },
+    {
+        "id": "usp-914.506.816-03",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Stella Isabelle da Conceição",
+        "cpf": "914.506.816-03",
+        "dataNascimento": "1994-03-10",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "11095-906",
+                "logradouro": "Rua Augusto Scaraboto",
+                "bairro": "Alemoa",
+                "cidade": "Santos",
+                "numero": 277,
+                "uf": "SP"
+            }
+        ],
+        "emails": [
+            {
+                "email": "stella-daconceicao92@arbitral.com"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "13",
+                "telefone": "982658773"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "914.506.816-03"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Stella Isabelle da Conceição"
+            }
+        ]
+    },
+    {
+        "id": "usp-180.553.901-93",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Fábio Julio Theo Rodrigues",
+        "cpf": "180.553.901-93",
+        "dataNascimento": "1993-01-08",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "59604-155",
+                "logradouro": "Rua Coronel Fausto",
+                "bairro": "Lagoa do Mato",
+                "cidade": "Mossoró",
+                "numero": 137,
+                "uf": "RN"
+            }
+        ],
+        "emails": [
+            {
+                "email": "fabio_rodrigues@soupelli.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "84",
+                "telefone": "986066462"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "180.553.901-93"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Fábio Julio Theo Rodrigues"
+            }
+        ]
+    },
+    {
+        "id": "usp-542.315.336-01",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Raquel Flávia Luzia Campos",
+        "cpf": "542.315.336-01",
+        "dataNascimento": "1988-02-08",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "53650-180",
+                "logradouro": "Rua Suiça",
+                "bairro": "Bela Vista",
+                "cidade": "Igarassu",
+                "numero": 446,
+                "uf": "PE"
+            }
+        ],
+        "emails": [
+            {
+                "email": "raquel.flavia.campos@infortec.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "81",
+                "telefone": "997622419"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "542.315.336-01"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Raquel Flávia Luzia Campos"
+            }
+        ]
+    },
+    {
+        "id": "usp-568.624.267-45",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "César Roberto Castro",
+        "cpf": "568.624.267-45",
+        "dataNascimento": "1988-01-09",
+        "tipo": "A",
+        "enderecos": [
+            {
+                "cep": "86191-470",
+                "logradouro": "Rua Reinaldo Resquetti",
+                "bairro": "Jardim Boa Vista",
+                "cidade": "Cambé",
+                "numero": 165,
+                "uf": "PR"
+            }
+        ],
+        "emails": [
+            {
+                "email": "cesar-castro95@vectrausinagem.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "43",
+                "telefone": "992311491"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "568.624.267-45"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "César Roberto Castro"
+            }
+        ]
+    },
+    {
+        "id": "usp-466.5 22.594-00",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Carolina Luzia Pinto",
+        "cpf": "466.5 22.594-00",
+        "dataNascimento": "1980-01-16",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "09134-690",
+                "logradouro": "Rua Catitu",
+                "bairro": "Recreio da Borda do Campo",
+                "cidade": "Santo André",
+                "numero": 244,
+                "uf": "SP"
+            }
+        ],
+        "emails": [
+            {
+                "email": "carolina.luzia.pinto@ceviu.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "11",
+                "telefone": "995337515"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "466.5 22.594-00"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Carolina Luzia Pinto"
+            }
+        ]
+    },
+    {
+        "id": "usp-672.614.581-04",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Gabriela Kamilly Fernandes",
+        "cpf": "672.614.581-04",
+        "dataNascimento": "1981-06-03",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "41345-240",
+                "logradouro": "Caminho 17-Setor 04",
+                "bairro": "Fazenda Grande IV",
+                "cidade": "Salvador",
+                "numero": 605,
+                "uf": "BA"
+            }
+        ],
+        "emails": [
+            {
+                "email": "gabriela_kamilly_fernandes@compecia.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "71",
+                "telefone": "995243132"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "672.614.581-04"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Gabriela Kamilly Fernandes"
+            }
+        ]
+    },
+    {
+        "id": "usp-474.010.849-61",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Heitor Fernando Murilo Ramos",
+        "cpf": "474.010.849-61",
+        "dataNascimento": "2000-01-01",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "99042-085",
+                "logradouro": "Rua Antônio Cesar",
+                "bairro": "Vera Cruz",
+                "cidade": "Passo Fundo",
+                "numero": 279,
+                "uf": "RS"
+            }
+        ],
+        "emails": [
+            {
+                "email": "heitorfernandoramos@live.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "54",
+                "telefone": "984296580"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "474.010.849-61"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Heitor Fernando Murilo Ramos"
+            }
+        ]
+    },
+    {
+        "id": "usp-291.730.743-90",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Elisa Rayssa Bianca Duarte",
+        "cpf": "291.730.743-90",
+        "dataNascimento": "2000-05-13",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "79015-370",
+                "logradouro": "Rua Luíz Roncolatto",
+                "bairro": "Jardim Presidente",
+                "cidade": "Campo Grande",
+                "numero": 470,
+                "uf": "MS"
+            }
+        ],
+        "emails": [
+            {
+                "email": "elisa.rayssa.duarte@powerblade.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "67",
+                "telefone": "985918693"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "291.730.743-90"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Elisa Rayssa Bianca Duarte"
+            }
+        ]
+    },
+    {
+        "id": "usp-040.122.721-95",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Bruno Anderson Enzo da Mata",
+        "cpf": "040.122.721-95",
+        "dataNascimento": "1973-02-04",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "64052-150",
+                "logradouro": "Rua Coronel Belisário da Cunha",
+                "bairro": "São Cristóvão",
+                "cidade": "Teresina",
+                "numero": 656,
+                "uf": "PI"
+            }
+        ],
+        "emails": [
+            {
+                "email": "bruno_damata@aerobravo.com.br"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "86",
+                "telefone": "983162103"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "040.122.721-95"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Bruno Anderson Enzo da Mata"
+            }
+        ]
+    },
+    {
+        "id": "usp-465.479.013-60",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Eliane Sarah Silveira",
+        "cpf": "465.479.013-60",
+        "dataNascimento": "1982-01-21",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "61608-255",
+                "logradouro": "Rua Cacique Alberto",
+                "bairro": "Parque Soledade",
+                "cidade": "Caucaia",
+                "numero": 706,
+                "uf": "CE"
+            }
+        ],
+        "emails": [
+            {
+                "email": "elianesarahsilveira@comdados.com"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "85",
+                "telefone": "994833659"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "465.479.013-60"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Eliane Sarah Silveira"
+            }
+        ]
+    },
+    {
+        "id": "usp-914.506.816-03",
+        "agrupador": "usp",
+        "tipoPessoa": "FISICA",
+        "nome": "Stella Isabelle da Conceição",
+        "cpf": "914.506.816-03",
+        "dataNascimento": "1994-03-10",
+        "tipo": "I",
+        "enderecos": [
+            {
+                "cep": "11095-906",
+                "logradouro": "Rua Augusto Scaraboto",
+                "bairro": "Alemoa",
+                "cidade": "Santos",
+                "numero": 277,
+                "uf": "SP"
+            }
+        ],
+        "emails": [
+            {
+                "email": "stella-daconceicao92@arbitral.com"
+            }
+        ],
+        "telefones": [
+            {
+                "tipo": "CELULAR",
+                "ddd": "13",
+                "telefone": "982658773"
+            }
+        ],
+        "informacoesAdicionais": [
+            {
+                "campo": "cpf_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "914.506.816-03"
+            },
+            {
+                "campo": "nome_aluno",
+                "linha": 1,
+                "coluna": 1,
+                "valor": "Stella Isabelle da Conceição"
+            }
+        ]
+    }
+]
