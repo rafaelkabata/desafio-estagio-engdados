@@ -64,9 +64,31 @@ Esta parte cria um dicionário (mapa_colunas) que mapeia os nomes das colunas no
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/mapeamento%20das%20colunas.png)
 
 <br>
+
+#### Final
 Por fim, o script renomeia as colunas do DataFrame dados_clientes usando o mapeamento definido anteriormente, cria uma lista (colunas_esperadas) com todos os nomes de colunas que devem estar presentes no DataFrame após o mapeamento então verifica se alguma dessas colunas está faltando. Se houver colunas faltantes, ele lança um erro com uma mensagem indicando quais colunas estão faltando, converte os valores na coluna data_nascimento para strings no formato dd/mm/yyyy, garantindo que todas as datas estejam no mesmo formato de string, verifica a validade dos dados dos clientes. Ele passa os dados dos clientes convertidos para uma lista de dicionários e o DataFrame dados_sistema para a função. A função retorna duas listas: clientes_validos e clientes_invalidos, salva a lista de clientes válidos em um arquivo JSON chamado clientes_para_subir.json e finalmente, o script cria um DataFrame com a lista de clientes inválidos (clientes_invalidos) e salva esse DataFrame em um arquivo Excel chamado clientes_invalidos.xlsx.
 
 
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/fim_codigo.png)
+
+<br>
+
+#### Clientes_invalidos
+Após o script rodar, ele gera um arquivo clientes_invalidos.xlsx contendo as informações e o motivo dos clientes estarem com os dados invalidos.
+
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_invalidos.png)
+
+<br>
+
+#### Clientes para mandar para o sistema Json
+Os clientes que estão com as informações corretas são organizados em um arquivo json contendo sua informações como na imagem abaixo. Podemos notar que quando é uma informação que não continha ainda no sistema.xlsx ele classifica o tipo como "I" de inserção
+
+[!Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir.png)
+
+<br>
+
+Enquanto que quando a informação do cliente já continha no sistema, ele acaba apenas fazendo uma atualização "A".
+<br>
+[!Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir_2.png)
 
 
