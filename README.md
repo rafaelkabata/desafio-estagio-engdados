@@ -47,10 +47,20 @@ Assim como função para validar a data de nascimento no formato que se encontra
 
 <br>
 
-Aqui a função faz a validação do cep utilizando a API da viacep. Ele faz uma comparação para verificar se o cep realmente pertence a cidade. Optei por não incluir bairro na validação também pois em cidades menores existe apenas o cep para cidade, e se a cidade e o bairro não correspondessem poderia gerar algum tipo de erro mesmo a informação estando correta.
+Aqui a função faz a validação do cep utilizando a API da viacep. Ele faz uma comparação para verificar se o cep realmente existe e se pertence a cidade. Caso haja uma divergencia entre cep e cidade, a função consegue reconhecer o erro.
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/funcao_3.png)
 
 <br>
 
 E por fim, a função para validação das informações do cliente e se estivesse tudo ok, seria uma inserção ou atualização para ser enviada para o json. <br>
-![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/funcao_4.png)
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/funcao_4.png) <br>
+
+#### Criando o json 
+Nesta parte do código é puxado os dados dos clientes para a criação do json que será enviado para o sistema.
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/correcao.png) <br>
+
+Esta parte cria um dicionário (mapa_colunas) que mapeia os nomes das colunas no arquivo dados.xlsx para novos nomes  padronizados  que serão usados no DataFrame.
+
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/mapeamento%20das%20colunas.png)
+
+
