@@ -83,12 +83,12 @@ Após o script rodar, ele gera um arquivo clientes_invalidos.xlsx contendo as in
 #### Clientes para mandar para o sistema Json
 Os clientes que estão com as informações corretas são organizados em um arquivo json contendo sua informações como na imagem abaixo. Podemos notar que quando é uma informação que não continha ainda no sistema.xlsx ele classifica o tipo como "I" de inserção
 
-[!Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir.png)
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir.png)
 
 <br>
 
 Enquanto que quando a informação do cliente já continha no sistema, ele acaba apenas fazendo uma atualização "A".
 <br>
-[!Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir_2.png)
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir_2.png)
 
 
