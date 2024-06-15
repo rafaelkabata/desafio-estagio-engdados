@@ -8,3 +8,5 @@
 
 #### Importação das bibliotecas
 O script utiliza várias bibliotecas em Python para manipular e validar os dados. A biblioteca json é usada para salvar dados em formato JSON. O pandas ajuda na leitura, manipulação e validação de dados de planilhas Excel. O módulo re é utilizado para trabalhar com expressões regulares, especialmente na extração de informações de números de telefone. O datetime é utilizado para validar as datas de nascimento (Acima de 17 anos). Por fim, requests permite fazer requisições HTTP para validar CEPs e obter detalhes de endereço através da API ViaCEP. 
+<br>
+![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/imagens/Desafio.png)
