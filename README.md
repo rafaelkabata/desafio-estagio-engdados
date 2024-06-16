@@ -98,7 +98,12 @@ Enquanto que quando a informação do cliente já continha no sistema, ele acaba
 ## AGRADECIMENTO 
 
 <br>
-Agradeço a oportunidade de estar participando do processo seletivo de estágio da Principia. Estou a disposição para esclarecer qualquer dúvida a respeito do desafio. 
+Agradeço a oportunidade de estar participando do processo seletivo de estágio da Principia. Estou muito animado com a possibilidade de fazer parte desta jovem Hub de soluções financeiras e poder ajudar a construir e fazer diferença na vida de estudantes de todo o país.
+Estou a disposição para esclarecer qualquer dúvida a respeito do desafio. <br>
+meus contatos são : kabatarafael@gmail.com ou https://www.linkedin.com/in/rafaelkabata/ <br>
+
+Atenciosamente, Rafael Kabata
+
 
 
 
