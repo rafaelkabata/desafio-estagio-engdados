@@ -2,9 +2,9 @@
 
 </div>
 
- ## [Arquivos para entrega](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/Entregaveis) : Nesta sessão estão os arquivos solicitados para a entrega do desafio.
- ## [Imagens](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/Imagens) : Nesta sessão estão as imagens utilizadas para a explicação do desafio.
- ## [Arquivos do desafio](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/arquivos_desafio) : Nesta sessão estão os arquivos utilizados para a análise dos dados do script e fornecidos no desafio.
+ ## [Arquivos para entrega](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/Entregaveis) : Nesta seção estão os arquivos solicitados para a entrega do desafio.
+ ## [Imagens](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/Imagens) : Nesta seção estão as imagens utilizadas para a explicação do desafio.
+ ## [Arquivos do desafio](https://github.com/rafaelkabata/desafio-estagio-engdados/tree/main/arquivos_desafio) : Nesta seção estão os arquivos utilizados para a análise dos dados do script e fornecidos no desafio.
 
  </div>
  
