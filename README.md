@@ -91,4 +91,14 @@ Enquanto que quando a informação do cliente já continha no sistema, ele acaba
 <br>
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/clientes_para_subir_2.png)
 
+<br>
+
+</div>
+
+## AGRADECIMENTO 
+
+<br>
+Agradeço a oportunidade de estar participando do processo seletivo de estágio da Principia. Estou a disposição para esclarecer qualquer dúvida a respeito do desafio. 
+
+
 
