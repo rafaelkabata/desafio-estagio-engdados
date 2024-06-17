@@ -76,7 +76,7 @@ Assim como função para validar a data de nascimento no formato que se encontra
 
 <br>
 
-Aqui a função faz a validação do cep utilizando a API da viacep. Ele faz uma comparação para verificar se o cep realmente existe e se pertence a cidade. Caso haja uma divergencia entre cep e cidade, a função consegue reconhecer o erro.
+Aqui a função faz a validação do cep utilizando a API da viacep. Ele faz uma comparação para verificar se o cep realmente existe e se pertence a cidade. Caso haja uma divergencia entre cep e cidade, a função consegue reconhecer o erro. Optei por não comparar com bairro, pois em cidades menores existe apenas 1 cep para a cidade inteira (como na minha) e o cep joga como centro da cidade não fazendo distinção entre os bairros.
 ![Diagrama](https://github.com/rafaelkabata/desafio-estagio-engdados/blob/main/Imagens/funcao_3.png)
 
 <br>
